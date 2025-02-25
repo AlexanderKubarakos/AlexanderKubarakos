@@ -1,19 +1,19 @@
-## Hey There
+## I'm Alex! :wave:
 
-My name is Alex, and I'm a computer science student at the University Of Western Ontario. I've been in love with computers in general since I was ten. Since then I've been learning as much as I can about computer science and the innerworkings of all things digital.
-I'm hoping to finish my studies to then pursue a masters or even Phd in CS. My main interests are in systems and graphics programing.
+<a href="https://github.com/ChungZH"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a>
 
-<!--
-**AlexanderKubarakos/AlexanderKubarakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/skyporker_channel"><img align="right" alt="Telegram channel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40skyporker_channel&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dskyporker_channel&longCache=true"/></a>
 
-Here are some ideas to get you started:
+🎊 Hello world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :hammer_and_pick: C/C++, GLSL, Java, Qt.
+- :package: 
+- :pencil2: Linux & Nvim & Visual Studio.
+- :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexanderKubarakos&theme=gruvbox&show_icons=true)
+
+
+###### 💾 EOF
+
+Last Edited on: 30/08/2025
